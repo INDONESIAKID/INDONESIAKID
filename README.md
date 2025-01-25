@@ -46,7 +46,20 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=indonesiakid&limit=5&theme=flat&combine_all_yearly_contributions=true)
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Elsa2090}/count.svg" alt="indonesiakid :: Visitor's Count" /></p>
+<p align="center">
+ <a href="[https://wa.me/27634988678](Https://chat.whatsapp.com/HfGAMzdEMjxBfYckJKyTOk)" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ INDONESIAKID -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+  </a>
+</p>
 
 
-###🇿🇦NOTE That
-<font color="red">THIS ACCOUNT IS FOR CREATING WHATSAPP BOTS🥳
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=NOTE+THAT;THIS+ACCOUNT+IS+FOR+CREATING+BOTS;THANKS+FOR+VISITING+MY+PROFILE)](https://git.io/typing-svg)
+
+
+
+
+###🇿🇦
