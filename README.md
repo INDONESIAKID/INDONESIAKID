@@ -16,7 +16,7 @@
 - 📝 I regularly write articles on [Https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J](Https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J)
 
 - 💬 Ask me about **More Hacks$Tricks**
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 📫 How to reach me **sbongatech@gmail.com**
 
 - 📄 Know about my experiences [Https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J](Https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J)
