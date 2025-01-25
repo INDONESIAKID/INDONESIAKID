@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate frontend developer from South Africa🇿🇦</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indonesiakid&label=Profile%20views&color=0e75b6&style=flat" alt="indonesiakid" /> </p>
 
@@ -43,5 +43,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indonesiakid&" alt="indonesiakid" /></p>
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=indonesiakid&limit=5&theme=flat&combine_all_yearly_contributions
+![](https://github-contributor-stats.vercel.app/api?username=indonesiakid&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+
+###🇿🇦NOTE That
+<font color="red">THIS ACCOUNT IS FOR CREATING WHATSAPP BOTS🥳
